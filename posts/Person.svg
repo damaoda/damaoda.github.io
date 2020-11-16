@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="66mm" xmlns="http://www.w3.org/2000/svg" height="30mm" version="1.1" viewBox="0 0 251 116" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="2" fill="url(#Gradient1)" width="247" height="112" stroke="#0080ff" stroke-width="1"/>
+   <text x="125" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">Person</text>
+   <line x1="2" x2="249" y1="17" y2="17" stroke="#0080ff" stroke-width="1"/>
+   <text x="7" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="7" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="20" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">name</text>
+   <text x="20" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">age</text>
+   <text x="48" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="48" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: int</text>
+   <text x="96" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'"> = zhangsan</text>
+   <text x="96" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'"> = 23</text>
+   <line x1="2" x2="249" y1="43" y2="43" stroke="#0080ff" stroke-width="1"/>
+   <text x="7" y="53" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="20" y="53" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Getter&gt;&gt;</text>
+   <text x="20" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Setter&gt;&gt;</text>
+   <text x="20" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Getter&gt;&gt;</text>
+   <text x="20" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Setter&gt;&gt;</text>
+   <text x="78" y="53" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">getName ()</text>
+   <text x="78" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">setName (String newName)</text>
+   <text x="78" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">getAge ()</text>
+   <text x="78" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">setAge (int newAge)</text>
+   <text x="206" y="53" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="206" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: void</text>
+   <text x="206" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: int</text>
+   <text x="206" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: void</text>
+</svg>

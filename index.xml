@@ -6,53 +6,7 @@
     <description>Recent content in The World Is Full of People. on 匿名用户李大毛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://lemontree152.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://lemontree152.github.io/posts/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://lemontree152.github.io/posts/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
-    </item>
-    
-    <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://lemontree152.github.io/posts/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://lemontree152.github.io/posts/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://lemontree152.github.io/posts/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://lemontree152.github.io/posts/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://lemontree152.github.io/posts/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://lemontree152.github.io/posts/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://lemontree152.github.io/posts/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://lemontree152.github.io/posts/chapter-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://lemontree152.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter I: The Grand Hall</title>
       <link>https://lemontree152.github.io/posts/chapter-1/</link>
@@ -61,6 +15,18 @@
       <guid>https://lemontree152.github.io/posts/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lemontree152.github.io/posts/uml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lemontree152.github.io/posts/uml/</guid>
+      <description>UML类图学习小结 前言  统一建模语言（Unified Modeling Language, UML)，可以帮助开发者对软件设计进行敏捷的思考（Agile thinking in UML）。针对一个复杂的软件设计问题，在编码之前首先明确需求，进而利用各种模型、方法论在大脑中进行深度思考和建模，最后评估方案的可行性和有效性，衡量各种可选方案的利弊。做到胸有成竹之后才动手，编程效率和质量都会较高，这个过程就是专家们常说的Quality Before Code。UML是思考和建模中有效的工具。UML能够帮助你对软件架构和设计模式进行抽象、全面、敏捷地分析和思考。UML能够帮助你快速、形象、牢固地记忆设计模式和方案。UML能够帮助你直观、形象、准确地与队友沟通、探讨软件设计。最后，画UML图是阅读、理解、学习源码的高效手段。
+ UML类图基本结构 类图是用来表示系统中类集合、类的属性以及类之间关系的一种静态结构图。在UML类图中，一个类用一个划分为三个部分的矩形表示，从上到下依次是类名、属性以及方法。例如，一个Person类有name和age两个属性，以及相应的get和set方法。Java代码和UML类图分别如下所示。
+import java.util.*; public class Person { private String name = zhangsan; private int age = 23; public String getName() { return name; } public void setName(String newName) { name = newName; } public int getAge() { return age; } public void setAge(int newAge) { age = newAge; } } 第一部分：类名 Java类的名字，若类名是正体书写，说明这是可以实例化的普通类；若是抽象类，则用斜体书写，且会在右下角显示{abstract}；若是接口，则用下划线修饰类名。 第二部分：属性 Java类中的属性也叫成员变量，在UML中其可见性、类型和默认值的通用表现形式为：
+可见性 属性名称：类型 [ = 默认值]</description>
     </item>
     
     <item>

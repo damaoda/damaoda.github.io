@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="152mm" xmlns="http://www.w3.org/2000/svg" height="33mm" version="1.1" viewBox="0 0 578 126" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="393,63 295,63" stroke="#0080ff" stroke-width="1"/>
+   <polyline fill="none" points="308,59 295,63 308,67" stroke="#0080ff" stroke-width="1"/>
+   <text x="364" y="71" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">1..1</text>
+   <text x="323" y="60" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">1..1</text>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="393" y="10" fill="url(#Gradient1)" width="183" height="92" stroke="#0080ff" stroke-width="1"/>
+   <text x="484" y="20" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">Teachers</text>
+   <line x1="393" x2="576" y1="25" y2="25" stroke="#0080ff" stroke-width="1"/>
+   <text x="397" y="35" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="397" y="46" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="397" y="57" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="397" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="410" y="35" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">tNumber</text>
+   <text x="410" y="46" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">address</text>
+   <text x="410" y="57" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">eye</text>
+   <text x="410" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">leg</text>
+   <text x="453" y="35" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: int</text>
+   <text x="453" y="46" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: Address</text>
+   <text x="453" y="57" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: Car</text>
+   <text x="453" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: House</text>
+   <line x1="393" x2="576" y1="73" y2="73" stroke="#0080ff" stroke-width="1"/>
+   <text x="397" y="83" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="410" y="83" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">teach ()</text>
+   <text x="458" y="83" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="2" fill="url(#Gradient2)" width="293" height="122" stroke="#0080ff" stroke-width="1"/>
+   <text x="148" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">Address</text>
+   <line x1="2" x2="295" y1="17" y2="17" stroke="#0080ff" stroke-width="1"/>
+   <text x="7" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="7" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="7" y="49" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">-</text>
+   <text x="20" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">province</text>
+   <text x="20" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">city</text>
+   <text x="20" y="49" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">county</text>
+   <text x="68" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="68" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="68" y="49" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <line x1="2" x2="295" y1="54" y2="54" stroke="#0080ff" stroke-width="1"/>
+   <text x="7" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="97" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="108" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="7" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">+</text>
+   <text x="20" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Getter&gt;&gt;</text>
+   <text x="20" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Setter&gt;&gt;</text>
+   <text x="20" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Getter&gt;&gt;</text>
+   <text x="20" y="97" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Setter&gt;&gt;</text>
+   <text x="20" y="108" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Getter&gt;&gt;</text>
+   <text x="20" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;&lt;Setter&gt;&gt;</text>
+   <text x="78" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">getProvince ()</text>
+   <text x="78" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">setProvince (String newProvince)</text>
+   <text x="78" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">getCity ()</text>
+   <text x="78" y="97" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">setCity (String newCity)</text>
+   <text x="78" y="108" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">getCounty ()</text>
+   <text x="78" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">setCounty (String newCounty)</text>
+   <text x="246" y="64" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="246" y="75" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: void</text>
+   <text x="246" y="86" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="246" y="97" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: void</text>
+   <text x="246" y="108" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: String</text>
+   <text x="246" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">: void</text>
+</svg>
